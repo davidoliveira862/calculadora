@@ -1,5 +1,6 @@
 using System;
 
+// Iniciando
 class Calculadora
 {
     static void Main()
